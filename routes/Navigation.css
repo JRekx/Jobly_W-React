@@ -1,0 +1,9 @@
+.Navigation {
+    background-color: rgb(229, 199, 123);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+  }
+  
+  .nav-link.active {
+    font-weight: bold;
+    color: black;
+  }
